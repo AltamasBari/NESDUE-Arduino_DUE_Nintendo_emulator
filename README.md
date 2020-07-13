@@ -12,11 +12,14 @@ Used Libraries: marekburiak-ILI9341_due, greiman-SdFat, SchedulerARMAVR...
 
 License: MIT (have a fun...)     
 
-#Connection Schematics:
+# VIDEO
+https://www.youtube.com/watch?v=gQ0J5JybFUg&t=59s
+
+# Connection Schematics:
 
 ![Image description](https://github.com/nathalis/NESDUE-Arduino_DUE_Nintendo_emulator/raw/master/NES_DUE_schematic.png)
 
-#Some photos:
+# Some photos:
 
 ![Image description](https://github.com/nathalis/NESDUE-Arduino_DUE_Nintendo_emulator/raw/master/photos/00.jpg)
 ![Image description](https://github.com/nathalis/NESDUE-Arduino_DUE_Nintendo_emulator/raw/master/photos/01.jpg)
